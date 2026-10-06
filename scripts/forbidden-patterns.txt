@@ -1,0 +1,3 @@
+\.(exs?|jsx?|tsx?|go|py|rb):[0-9]+
+Co-Authored-By
+Generated with
